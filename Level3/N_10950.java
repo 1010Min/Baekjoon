@@ -13,4 +13,4 @@ public class N_10950 {
 			System.out.println(x+y);
 		}
 	}
-}
+} 
