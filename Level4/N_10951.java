@@ -9,7 +9,7 @@ public class N_10951 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-		while((w=br.readLine()) != null) { // eclipse¿¡¼­ EOF´Â Ctrl+Z
+		while((w=br.readLine()) != null) { 
 			StringTokenizer st = new StringTokenizer(w);
 			a = Integer.parseInt(st.nextToken());
 			b = Integer.parseInt(st.nextToken());
