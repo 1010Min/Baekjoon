@@ -16,4 +16,4 @@ public class N_10871 {
 				System.out.print(A[i] + " ");
 		}
 	}
-} 
+}
