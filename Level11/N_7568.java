@@ -27,10 +27,3 @@ public class N_7568 {
 		br.close();
 	}
 }
-
-/*
-	x1>x2 && y1>y2 -> 2++
-	x1>x2 && y1<y2 -> x
-	x1<x2 && y1>y2 -> x
-	x1<x2 && y1<y2 -> 1++
-*/
